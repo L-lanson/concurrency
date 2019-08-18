@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1c9893-2bdb-4c07-8915-34edc9e6c770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/并行.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/基础篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/基础篇.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/并发.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/并行.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,26 +42,26 @@
         <counts>
           <entry key="jpg" value="1" />
           <entry key="md" value="2" />
-          <entry key="png" value="2" />
+          <entry key="png" value="4" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="3" />
+          <entry key="Image" value="5" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1404" />
+          <entry key="md" value="1462" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1404" />
+          <entry key="Markdown" value="1462" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -91,7 +89,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="320">
-                <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+                <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -175,6 +173,13 @@
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
               <item name="基础篇" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="基础篇" type="462c0819:PsiDirectoryNode" />
+              <item name="为什么要学习并发" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566092801772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566093809794" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -220,12 +225,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566046586216</updated>
       <workItem from="1566046593121" duration="6408000" />
-      <workItem from="1566084623146" duration="6917000" />
+      <workItem from="1566084623146" duration="8013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13325000" />
+    <option name="totallyTimeSpent" value="14421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -290,17 +295,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.png">
+    <entry file="file://$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.jpg">
+    <entry file="file://$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/并行.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/基础篇/为什么要学习并发/串行.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/基础篇.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="320">
-            <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
